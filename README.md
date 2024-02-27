@@ -23,7 +23,8 @@ This project focuses on the development of an interactive dashboard utilizing th
 ###
 ### Interactive Filters:
 ###
-Metric Selection: Analysts are equipped with the flexibility to select from a plethora of metrics including overall rating, cabin staff service, entertainment, food, ground service, seat comfort, and value, enabling focused analysis on specific facets of the customer experience.
+#### Metric Selection:####
+Analysts are equipped with the flexibility to select from a plethora of metrics including overall rating, cabin staff service, entertainment, food, ground service, seat comfort, and value, enabling focused analysis on specific facets of the customer experience.
 
 Date Range Selection: A dynamic slider empowers users to filter data based on the month, spanning from March 2016 to October 2023, thereby facilitating nuanced trend analysis and performance evaluation across distinct timeframes.
 
