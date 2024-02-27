@@ -30,7 +30,8 @@ This project focuses on the development of an interactive dashboard utilizing th
 **Additional Filters:** Analysts can further refine their analysis by specifying traveler type, seat type, aircraft group, and continent, thereby facilitating granular exploration of specific segments within the dataset, including location, aircraft type, traveler demographics, and more.
 
 ### Dashboard Preview
-![Flight_Operations_Dashboard](https://github.com/Vaibhavgosai/Flight-Operations-Overview/assets/22378803/d7e471c3-7269-40ec-9000-ce9eb69ad785)
+![Flight_Operations_Dashboard](https://github.com/Vaibhavgosai/Flight-Operations-Overview/assets/22378803/a3dc325d-166f-4fdc-af8e-e5d4a226c483)
+
 
 
 ### Conclusion:
